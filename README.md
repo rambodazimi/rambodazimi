@@ -8,24 +8,24 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareEngineerStudent:
 
     def __init__(self):
         self.name = "Rambod Azimi"
         self.role = "Software Engineering @ McGill University"
-        self.language_spoken = ["FA", "en_US"]
+        self.language_spoken = ["en_US", "Fa"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = SoftwareEngineerStudent()
 me.say_hi()
 ```
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
+- Personal website: http://rambodazimi.com
 - Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
