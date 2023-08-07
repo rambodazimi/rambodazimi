@@ -25,7 +25,7 @@ me.say_hi()
 - Personal website: http://rambodazimi.com
 - LinkedIn: https://www.linkedin.com/in/rambod-azimi-047646151
 - Instagram: https://www.instagram.com/_rambod/
-- YouTube Channel: https://www.youtube.com/rambodedu
+- YouTube Channel: https://www.youtube.com/@RAMZIZONE
 - Apple Podcast Channel: https://podcasts.apple.com/ca/podcast/jaraghe/id1615331948
 - App Store Page: https://apps.apple.com/lv/developer/rambod-azimi/id1634999941
 
