@@ -23,9 +23,9 @@ me.say_hi()
 ## 📝 Links
 
 - Personal website: http://rambodazimi.com
-- LinkedIn: https://www.linkedin.com/in/rambod-azimi-047646151
+- LinkedIn: https://www.linkedin.com/in/rambod-azimi
 - Instagram: https://www.instagram.com/_rambod/
-- YouTube Channel: https://www.youtube.com/@RAMZIZONE
+- YouTube Channel: coming soon
 - Apple Podcast Channel: https://podcasts.apple.com/ca/podcast/jaraghe/id1615331948
 - App Store Page: https://apps.apple.com/lv/developer/rambod-azimi/id1634999941
 
