@@ -9,8 +9,8 @@ class SoftwareEngineerStudent:
 
     def __init__(self):
         self.name = "Rambod Azimi"
-        self.role = "Software Engineering @ McGill University"
-        self.job = "AI/ML Researcher at MILA x McGill"
+        self.degree = "Software Engineering @ McGill University"
+        self.job = "AI/ML Researcher at MILA x McGill/NRC"
         self.language_spoken = ["en_US", "Fa"]
 
     def say_hi(self):
