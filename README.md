@@ -24,9 +24,5 @@ me.say_hi()
 ## 📝 Links
 
 - Personal website: http://rambodazimi.com
-- Personal Blog: https://rambodazimi.com/blog
 - LinkedIn: https://www.linkedin.com/in/rambod-azimi
 - Instagram: https://www.instagram.com/_rambod/
-- YouTube Channel: https://www.youtube.com/@compexplained
-- Apple Podcast Channel: https://podcasts.apple.com/ca/podcast/jaraghe/id1615331948
-- App Store Page: https://apps.apple.com/lv/developer/rambod-azimi/id1634999941
