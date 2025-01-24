@@ -31,4 +31,5 @@ me.say_hi()
 - Personal website: http://rambodazimi.com
 - Google Scholar: https://scholar.google.com/citations?user=1yhGHxMAAAAJ&hl=en
 - LinkedIn: https://www.linkedin.com/in/rambod-azimi
-- Instagram: https://www.instagram.com/_rambod/
+- Hugging Face: https://huggingface.co/rambodazimi
+- Instagram: https://www.instagram.com/_rambod
