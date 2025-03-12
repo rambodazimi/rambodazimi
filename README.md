@@ -11,7 +11,7 @@ class SoftwareEngineerStudent:
         self.name = "Rambod Azimi"
         self.prev_degree = "Software Engineering @ McGill University"
         self.job = "AI/ML Researcher"
-        self.interests = ["LLM", "Knowledge Distillation", "Generative AI", "Computer Vision"]
+        self.interests = ["LLM", "Efficient AI", "Knowledge Distillation", "Generative AI", "Computer Vision"]
         self.language_spoken = ["en_US", "Fa"]
 
     def say_hi(self):
