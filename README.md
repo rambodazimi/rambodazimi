@@ -10,9 +10,9 @@ class SoftwareEngineerStudent:
     def __init__(self):
         self.name = "Rambod Azimi"
         self.prev_degree = "Software Engineering @ McGill University"
-        self.job = "AI/ML Researcher"
-        self.interests = ["LLM", "Efficient AI", "Knowledge Distillation", "Generative AI", "Computer Vision"]
-        self.language_spoken = ["en_US", "Fa"]
+        self.job = "AI/ML Researcher and Software Developer"
+        self.interests = ["LLMs", "Agentic AI", "Efficient AI", "Knowledge Distillation", "RAG Pipeline", "Generative AI", "Computer Vision"]
+        self.language_spoken = ["English", "French (Beginner)", "Persian (Native)"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -29,7 +29,6 @@ me.say_hi()
 
 ## 📝 Links
 
-- Personal website: http://rambodazimi.com
 - Google Scholar: https://scholar.google.com/citations?user=1yhGHxMAAAAJ&hl=en
 - LinkedIn: https://www.linkedin.com/in/rambod-azimi
 - Hugging Face: https://huggingface.co/rambodazimi
