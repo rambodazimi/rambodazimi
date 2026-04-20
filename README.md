@@ -23,6 +23,7 @@ me.say_hi()
 ```
 
 ## 📝 Papers
+- Gen-Fab: a variation-aware generative model for predicting fabrication variations in nanophotonic devices (Springer 2026): https://link.springer.com/article/10.1007/s00158-026-04272-3
 - KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation (ENLSP-NeurIPS 2024): https://arxiv.org/abs/2410.20777
 - SEMU-Net: A Segmentation-based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images (WACV 2025): https://arxiv.org/abs/2411.16973
 
