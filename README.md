@@ -12,7 +12,7 @@ class SoftwareEngineerStudent:
         self.prev_degree = "Software Engineering @ McGill University"
         self.job = "AI/ML Researcher and Software Developer"
         self.interests = ["LLMs", "Agentic AI", "Efficient AI", "Knowledge Distillation", "RAG Pipeline", "Generative AI", "Computer Vision"]
-        self.language_spoken = ["English", "French (Beginner)", "Persian (Native)"]
+        self.language_spoken = ["English", "French (Intermediate)", "Persian (Native)"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -30,6 +30,7 @@ me.say_hi()
 
 ## 📝 Links
 
+- Personal Website: https://rambodazimi.github.io
 - Google Scholar: https://scholar.google.com/citations?user=1yhGHxMAAAAJ&hl=en
 - LinkedIn: https://www.linkedin.com/in/rambod-azimi
 - Hugging Face: https://huggingface.co/rambodazimi
