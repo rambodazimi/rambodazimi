@@ -30,7 +30,7 @@ me.say_hi()
 
 ## 📝 Links
 
-- Personal Website: https://rambodazimi.github.io
+- Personal Website: rambodazimi.github.io/portfolio
 - Google Scholar: https://scholar.google.com/citations?user=1yhGHxMAAAAJ&hl=en
 - LinkedIn: https://www.linkedin.com/in/rambod-azimi
 - Hugging Face: https://huggingface.co/rambodazimi
